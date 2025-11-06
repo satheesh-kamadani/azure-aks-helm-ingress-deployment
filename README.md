@@ -16,6 +16,18 @@ The project includes:
 
 ---
 
+## 📸 Screenshots
+
+| Description | Screenshot |
+|--------------|-------------|
+| **AKS Cluster Overview** | ![AKS Cluster](./screenshots/aks-cluster.png) |
+| **Pods Running Status** | ![Pods Status](./screenshots/pod_running_status.png) |
+| **Deployment Status** | ![Deployments](./screenshots/deployments_running_status.png) |
+| **Ingress External IP** | ![Ingress External IP](./screenshots/ingress-external-ip.png) |
+| **Application Running** | ![Application Running](./screenshots/application_running.png) |
+
+> All screenshots are available under the `/screenshots` directory.
+
 ## 🧩 Architecture Summary
 
 **Key Components:**
